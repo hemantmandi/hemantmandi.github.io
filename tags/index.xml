@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Latest news </title>
-    <link>http://hemantmandi.github.io/tags/</link>
+    <link>https://hemantmandi.github.io/tags/</link>
     <description>Recent content in Tags on Latest news </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 18 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hemantmandi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hemantmandi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Digital Payment</title>
-      <link>http://hemantmandi.github.io/tags/digital-payment/</link>
+      <link>https://hemantmandi.github.io/tags/digital-payment/</link>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hemantmandi.github.io/tags/digital-payment/</guid>
+      <guid>https://hemantmandi.github.io/tags/digital-payment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile Payments</title>
-      <link>http://hemantmandi.github.io/tags/mobile-payments/</link>
+      <link>https://hemantmandi.github.io/tags/mobile-payments/</link>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hemantmandi.github.io/tags/mobile-payments/</guid>
+      <guid>https://hemantmandi.github.io/tags/mobile-payments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Savings Account</title>
-      <link>http://hemantmandi.github.io/tags/savings-account/</link>
+      <link>https://hemantmandi.github.io/tags/savings-account/</link>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hemantmandi.github.io/tags/savings-account/</guid>
+      <guid>https://hemantmandi.github.io/tags/savings-account/</guid>
       <description></description>
     </item>
     
